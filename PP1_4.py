@@ -4,7 +4,7 @@ def q1():
   #Write Assignment code here
 
   word = input("Input a word")
-  print("Your input was "+ word)
+  print(input("input a word: ")
 
 def q2():
   #Write Assignment code here
