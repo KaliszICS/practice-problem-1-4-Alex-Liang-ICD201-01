@@ -3,21 +3,20 @@
 def q1():
   #Write Assignment code here
 
-  word = input("Input a word")
-  print(input("input a word: ")
+  print(input("Input a word: "))
 
 def q2():
   #Write Assignment code here
 
-  firstname1 = input("What is your first name?")
+  firstname1 = input("Input your first name")
   print("Your first name is " + firstname1)
 
 def q3():
   #Write Assignment code here
 
-  firstname = input("What is your first name?")
-  lastname = input("What is your last name?")
-  print(f"Your first name is {firstname} and your last name is {lastname}")
+  lastname = input("Input your last name?")
+  firstname = input("Input your first name?")
+  print(f" {lastname} {firstname}")
 
 def q4():
   #Write Assignment code here
